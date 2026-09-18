@@ -7,6 +7,7 @@ This is the local companion required by the Marketplace version of `MV Immersive
 1. Download and extract the ZIP, then run install.cmd.
 
 [![Download Cider MV Resolver](https://img.shields.io/badge/Download-MV_Resolver_for_Windows-2ea44f?style=for-the-badge)](https://github.com/YoreYore33/Cider-MV-Resolver/releases/latest/download/Cider-MV-Resolver-1.0.0-Windows-x64.zip)
+
 2. Right-click this ZIP and select **Extract All**.
 3. Run `install.cmd` from the extracted folder.
 4. Restart Cider after the installer reports `installed and running`.

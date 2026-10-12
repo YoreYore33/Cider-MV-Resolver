@@ -1,4 +1,4 @@
-# Cider MV Resolver 1.0.0 (Windows x64)
+# Cider MV Resolver 1.2.0 (Windows x64,linux,mac)
 
 This is the local companion required by the Marketplace version of `MV Immersive` to play configured YouTube videos. It does not include the Cider plugin itself.
 
